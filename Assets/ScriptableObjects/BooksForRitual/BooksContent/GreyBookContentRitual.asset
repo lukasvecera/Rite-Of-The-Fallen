@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: GreyBookContentRitual
+  m_EditorClassIdentifier: 
+  title: Whispers of the Past
+  pages:
+  - {fileID: -2121552013, guid: 023f9549017fde84ea62e636d1634c97, type: 3}
+  - {fileID: 616879854, guid: ca7383856c9f0fb4cb1292c9113513f7, type: 3}
+  - {fileID: -1466772462, guid: 415a036c4b3129a49ba6707045ba9626, type: 3}
+  - {fileID: -1668227591, guid: dd20a915d544a6d47abe65490999e27a, type: 3}
+  - {fileID: 1856348320, guid: 4d6d36d4b957b2943a800e696227e55a, type: 3}
+  - {fileID: -1038314956, guid: 7cd3653a13b44e04bb6d80acac8a27a2, type: 3}

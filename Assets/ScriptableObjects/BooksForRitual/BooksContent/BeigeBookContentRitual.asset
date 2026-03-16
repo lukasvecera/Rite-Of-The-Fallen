@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: BeigeBookContentRitual
+  m_EditorClassIdentifier: 
+  title: BeigeBook
+  pages:
+  - {fileID: -1067795916, guid: 8edb3a79c98864d44bca9c95f4b7bc81, type: 3}
+  - {fileID: 2110859840, guid: 4d0e8acc09d156643965c556678342e8, type: 3}
+  - {fileID: 1400241032, guid: 5d65a26a2eeabc841ac55bf504088c49, type: 3}
+  - {fileID: 1338721802, guid: 65e81c34322dcc542a3f422be83ccb52, type: 3}
+  - {fileID: 1567887921, guid: 8a295209d81ea7045be145bb5e4bf4e2, type: 3}
+  - {fileID: 50230543, guid: 8cc2362a6b4c7c84f9c085b45b4207e2, type: 3}

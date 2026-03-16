@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: BlueBookQuestContent
+  m_EditorClassIdentifier: 
+  title: Quests
+  pages:
+  - {fileID: 2016963951, guid: d052b1ece81460f4aa4b18b53ea1c16f, type: 3}
+  - {fileID: -564014563, guid: ff4de792858cad6408b1803feb85754e, type: 3}
+  - {fileID: -903097608, guid: a8cb3a3d1cdda694b84fc48e133f2f12, type: 3}
+  - {fileID: 1274681699, guid: fbeaace8033814243bd9db90a9e7fccc, type: 3}
+  - {fileID: -949202680, guid: 9b89828ec199e5b42adbd23b8bb73c2d, type: 3}
+  - {fileID: 308341944, guid: eb7a072d0d96cdf42b7906784adda42f, type: 3}
+  - {fileID: -498875243, guid: 7333a9b9171d83047b15aefd86979711, type: 3}
+  - {fileID: -373956729, guid: bcd97aad09482654d84f9e60fec8253f, type: 3}

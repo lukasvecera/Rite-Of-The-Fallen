@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: GreyBookContentPotions
+  m_EditorClassIdentifier: 
+  title: GreyBook
+  pages:
+  - {fileID: 417907371, guid: 607deb932459594449dcc08b7fcdc2c3, type: 3}
+  - {fileID: -1650836095, guid: f6e4166cbeb66aa428874859e85a6d46, type: 3}
+  - {fileID: 438750479, guid: c9c02acb00b97e645b9eb5de288528db, type: 3}
+  - {fileID: 260903033, guid: 1ea83dcad2f226e43a755afb29d7f603, type: 3}
+  - {fileID: -1369148773, guid: 883a14e5e12bc354882552c93a7309fc, type: 3}
+  - {fileID: -1771746695, guid: 87a3baf9da707b049beda81ceca180e1, type: 3}

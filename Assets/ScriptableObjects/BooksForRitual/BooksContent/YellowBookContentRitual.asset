@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: YellowBookContentRitual
+  m_EditorClassIdentifier: 
+  title: RedBook
+  pages:
+  - {fileID: 1386368693, guid: 1b4b2faa6138e4a4192cbf620d059dbd, type: 3}
+  - {fileID: 718471421, guid: f37f8fef60908ab418c6ad618d6ccf6c, type: 3}
+  - {fileID: -282315877, guid: d7d77f36fcefa184db3d15a493739f26, type: 3}
+  - {fileID: 25261062, guid: 3844efe167e45c54b852fd2c9c6591f0, type: 3}
+  - {fileID: 475980628, guid: 79d2c2e7c5596fa4f84f874b3cc19136, type: 3}
+  - {fileID: 1404139890, guid: 438bf05c45fdf3a4b979c258a6fb2acc, type: 3}

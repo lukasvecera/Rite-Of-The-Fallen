@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ca760c6ef66a044b2883ad4527edf6, type: 3}
+  m_Name: BeigeBookContentPotions
+  m_EditorClassIdentifier: 
+  title: RedBook
+  pages:
+  - {fileID: 876882508, guid: 0b52525961a79b84e8fbb574e03b8cb5, type: 3}
+  - {fileID: -380882397, guid: 78732d84cfdc3a749a679a11cca586aa, type: 3}
+  - {fileID: -1906918773, guid: dd07fc46f4e208b4fa8e08418417078e, type: 3}
+  - {fileID: 1283796937, guid: 580cf6c10a8e1944da52eb677b20257e, type: 3}
+  - {fileID: -782515949, guid: a950e9eebded668458f634a6d9048437, type: 3}
+  - {fileID: 1602362104, guid: 107c6ec66b5898047a1b4e676c70350f, type: 3}
+  - {fileID: -1354148262, guid: c5c7fcfe2544b00428ef3e7c1d753f6c, type: 3}
+  - {fileID: -1605799259, guid: eb30a98886fac4a4891d551dccd22930, type: 3}
